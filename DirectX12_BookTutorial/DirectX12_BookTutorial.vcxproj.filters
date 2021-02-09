@@ -30,5 +30,8 @@
     <ClCompile Include="Floating_Point_Error.cpp">
       <Filter>Source Files\Math Functions</Filter>
     </ClCompile>
+    <ClCompile Include="Matrices.cpp">
+      <Filter>Source Files\Math Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

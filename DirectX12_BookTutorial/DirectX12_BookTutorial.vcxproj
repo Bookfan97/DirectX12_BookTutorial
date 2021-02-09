@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Floating_Point_Error.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Matrices.cpp" />
     <ClCompile Include="Setter_Functions.cpp" />
     <ClCompile Include="Vector_Functions.cpp" />
   </ItemGroup>
